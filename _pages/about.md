@@ -156,6 +156,25 @@ Chao Chen, Zhihang Fu, Zhihong Chen, **Sheng Jin**, Zhaowei Cheng, Xinyu Jin, Xi
 </div>
 </div>
 
+[//]: # (----------- TIP 2021 -------------------------)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2021</div><img src='../images/DSaH.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Unsupervised discrete hashing with affinity similarity](https://ieeexplore.ieee.org/abstract/document/9467816/)
+
+[//]: # (<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong>)
+
+**Sheng Jin**, Hongxun Yao, Qin Zhou, Yao Liu, Jianqiang Huang, Xiansheng Hua
+
+<i>TIP, 2021</i>
+
+<a href="https://ieeexplore.ieee.org/abstract/document/9467816/">paper</a> 
+
+</div>
+</div>
+
+
 [//]: # (----------- AAAI 2020 -------------------------)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2020</div><img src='../images/AAAI2020_Hashing.jpg' alt="sym" width="100%"></div></div>
@@ -175,20 +194,20 @@ Chao Chen, Zhihang Fu, Zhihong Chen, **Sheng Jin**, Zhaowei Cheng, Xinyu Jin, Xi
 </div>
 
 
-[//]: # (----------- TIP 2021 -------------------------)
+[//]: # (----------- TIP 2020 -------------------------)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2021</div><img src='../images/DSaH.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2020</div><img src='../images/DSaH.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep saliency hashing for fine-grained retrieval](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/1807.01459.pdf)
+[Deep saliency hashing for fine-grained retrieval](https://arxiv.org/pdf/1807.01459.pdf)
 
 [//]: # (<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong>)
 
 **Sheng Jin**, HongxunYao, XiaoshuaiSun, ShangchenZhou, LeiZhang, XianshengHua
 
-<i>TIP, 2021</i>
+<i>TIP, 2020</i>
 
-<a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/1807.01459.pdf">paper</a> 
+<a href="https://arxiv.org/pdf/1807.01459.pdf">paper</a> 
 
 </div>
 </div>
