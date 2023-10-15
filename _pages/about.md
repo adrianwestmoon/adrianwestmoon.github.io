@@ -218,8 +218,8 @@ Chao Chen, Zhihang Fu, Zhihong Chen, **Sheng Jin**, Zhaowei Cheng, Xinyu Jin, Xi
 - *2021.* National Scholarships
 
 # 📖 Educations
-- *2022.08 - Present:* Doctor of Philosophy, School of Computer Science and Engineering, Harbin Institute of Technology
-- *2018.09 - 2022.07:* Bachelor in Intelligence Science and Technology, School of Mathematic, Harbin Institute of Technology
+- *2016.09 - 2021.09:* Doctor of Philosophy, School of Computer Science and Engineering, Harbin Institute of Technology
+- *2012.09 - 2016.07:* Bachelor in Intelligence Science and Technology, School of Mathematic, Harbin Institute of Technology
  
 
 # 🧑‍🔬 Service
