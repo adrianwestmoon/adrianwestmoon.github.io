@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently working as a research fellow at S-Lab@NTU (https://www.ntu.edu.sg/s-lab), Nanyang Technological University, under the supervision of Prof. Shijian Lu. Prior to this, I served as a senior research scientist (2021-2023) at CityBrain Lab, DAMO, Alibaba Group.
-I completed my Ph.D. degree (2016-2021) at the VILab of Harbin Institute of Technology, under the guidance of Prof. Hongxun Yao. During my Ph.D. study, I interned at CityBrain Lab, DAMO, Alibaba Group, supervised by Prof. Xian-sheng Hua.
+I am currently working as a research fellow at [S-Lab@NTU](https://www.ntu.edu.sg/s-lab), Nanyang Technological University, under the supervision of Prof. [Shijian Lu](https://personal.ntu.edu.sg/shijian.lu/). Prior to this, I served as a senior research scientist (2021-2023) at CityBrain Lab, DAMO, Alibaba Group.
+I completed my Ph.D. degree (2016-2021) at the [VILab](https://vilab.hit.edu.cn/) of Harbin Institute of Technology, under the guidance of [Prof. Hongxun Yao](http://homepage.hit.edu.cn/yaohongxun). During my Ph.D. study, I interned at CityBrain Lab, DAMO, Alibaba Group, supervised by [Prof. Xian-sheng Hua](https://scholar.google.com/citations?user=6G-l4o0AAAAJ&hl=zh-CN).
 During my Phd period, my research interests include computer vision and deep learning with a focus on image retrieval and quantization. Now I am interested in open vocabulary tasks.
 
 # 🔥 News
