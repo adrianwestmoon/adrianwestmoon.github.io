@@ -180,7 +180,7 @@ Chao Chen, Zhihang Fu, Zhihong Chen, **Sheng Jin**, Zhaowei Cheng, Xinyu Jin, Xi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2020</div><img src='../images/AAAI2020_Hashing.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Homm: Higher-order moment matching for unsupervised domain adaptation](https://ojs.aaai.org/index.php/AAAI/article/download/6773/6627)
+[SSAH: Semi-Supervised Adversarial Deep Hashing with Self-Paced Hard Sample Generation](https://ojs.aaai.org/index.php/AAAI/article/download/6773/6627)
 
 [//]: # (<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong>)
 
