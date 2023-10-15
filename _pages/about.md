@@ -26,7 +26,23 @@ During my Phd period, my research interests include computer vision and deep lea
 - *2023.07*: &nbsp;🎉🎉 Two papers are accepted by ICCV 2023!  
 
 # 📝 Publications 
+[//]: # (----------- ICCV 2023 -------------------------)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='../images/ICCV23_Domain.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Domain Generalization via Balancing Training Difficulty and Model Capability](https://arxiv.org/pdf/2309.00844.pdf) 
+
+[//]: # (<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong>)
+
+Xueying Jiang, Jiaxing Huang, **Sheng Jin**, Shijian Lu
+
+<i>ICCV, 2023</i>
+
+<a href="https://arxiv.org/pdf/2309.00844.pdf">paper</a> 
+
+</div>
+</div>
 
 [//]: # (----------- TIP 2021 -------------------------)
 
