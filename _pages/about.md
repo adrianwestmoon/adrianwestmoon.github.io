@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently working as a research fellow at [S-Lab@NTU](https://www.ntu.edu.sg/s-lab), Nanyang Technological University, under the supervision of Prof. [Shijian Lu](https://personal.ntu.edu.sg/shijian.lu/). Prior to this, I served as a senior research scientist (2021-2023) at CityBrain Lab, DAMO, Alibaba Group.
+I am currently working as a research fellow at [S-Lab@NTU](https://www.ntu.edu.sg/s-lab), Nanyang Technological University, under the supervision of [Prof. Shijian Lu](https://personal.ntu.edu.sg/shijian.lu/). Prior to this, I served as a senior research scientist (2021-2023) at CityBrain Lab, DAMO, Alibaba Group.
 I completed my Ph.D. degree (2016-2021) at the [VILab](https://vilab.hit.edu.cn/) of Harbin Institute of Technology, under the guidance of [Prof. Hongxun Yao](http://homepage.hit.edu.cn/yaohongxun). During my Ph.D. study, I interned at CityBrain Lab, DAMO, Alibaba Group, supervised by [Prof. Xian-sheng Hua](https://scholar.google.com/citations?user=6G-l4o0AAAAJ&hl=zh-CN).
 During my Phd period, my research interests include computer vision and deep learning with a focus on image retrieval and quantization. Now I am interested in open vocabulary tasks.
 
@@ -30,16 +30,10 @@ During my Phd period, my research interests include computer vision and deep lea
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Deep saliency hashing for fine-grained retrieval](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/1807.01459.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Sheng Jin**, HongxunYao, XiaoshuaiSun, ShangchenZhou, LeiZhang, XianshengHua
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2022. * Excellent Doctors’ Nomination. 
