@@ -32,7 +32,7 @@ During my Phd period, my research interests include computer vision and deep lea
 # 📝 Publications 
 [//]: # (----------- NIPS 2023 -------------------------)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2023</div><img src='../images/ICCV23_Tracking.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2023</div><img src='../images/NIPS2023_OOD.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Category-Extensible Out-of-Distribution Detection via Hierarchical Context Descriptions](https://openreview.net/pdf?id=SA2KrosYjY )
