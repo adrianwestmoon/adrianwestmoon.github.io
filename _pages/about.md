@@ -158,7 +158,7 @@ Chao Chen, Zhihang Fu, Zhihong Chen, **Sheng Jin**, Zhaowei Cheng, Xinyu Jin, Xi
 
 [//]: # (----------- TIP 2021 -------------------------)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2021</div><img src='../images/DSaH.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2021</div><img src='../images/TIP2021_Hashing.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Unsupervised discrete hashing with affinity similarity](https://ieeexplore.ieee.org/abstract/document/9467816/)
