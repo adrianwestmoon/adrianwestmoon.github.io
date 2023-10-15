@@ -27,7 +27,7 @@ During my Phd period, my research interests include computer vision and deep lea
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP2020</div><img src='images/DSaH.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP2020</div><img src='../images/DSaH.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep saliency hashing for fine-grained retrieval](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/1807.01459.pdf)
