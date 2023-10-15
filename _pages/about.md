@@ -27,12 +27,24 @@ During my Phd period, my research interests include computer vision and deep lea
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP2020</div><img src='../images/DSaH.jpg' alt="sym" width="100%"></div></div>
+
+[//]: # (----------- TIP 2021 -------------------------)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2021</div><img src='../images/DSaH.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep saliency hashing for fine-grained retrieval](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/1807.01459.pdf)
 
+[//]: # (<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong>)
+
 **Sheng Jin**, HongxunYao, XiaoshuaiSun, ShangchenZhou, LeiZhang, XianshengHua
+
+<i>TIP, 2021</i>
+
+<a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/1807.01459.pdf">paper</a> 
+
+</div>
+</div>
 
 
 # 🎖 Honors and Awards
