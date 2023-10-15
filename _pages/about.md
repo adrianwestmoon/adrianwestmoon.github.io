@@ -17,15 +17,55 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently working as a research fellow at [S-Lab@NTU](https://www.ntu.edu.sg/s-lab), Nanyang Technological University, under the supervision of [Prof. Shijian Lu](https://personal.ntu.edu.sg/shijian.lu/). Prior to this, I served as a senior research scientist (2021-2023) at CityBrain Lab, DAMO, Alibaba Group.
+I am currently working as a research fellow at [S-Lab@NTU](https://www.ntu.edu.sg/s-lab), Nanyang Technological University, under the supervision of [Prof. Shijian Lu](https://personal.ntu.edu.sg/shijian.lu/). Prior to this, I served as a senior research scientist (2021-2023) at CityBrain Lab, DAMO, Alibaba Group, under the supervision of [Prof. Jieping Ye](http://www.yelabs.net/).
 I completed my Ph.D. degree (2016-2021) at the [VILab](https://vilab.hit.edu.cn/) of Harbin Institute of Technology, under the guidance of [Prof. Hongxun Yao](http://homepage.hit.edu.cn/yaohongxun). During my Ph.D. study, I interned at CityBrain Lab, DAMO, Alibaba Group, supervised by [Prof. Xian-sheng Hua](https://scholar.google.com/citations?user=6G-l4o0AAAAJ&hl=zh-CN).
 During my Phd period, my research interests include computer vision and deep learning with a focus on image retrieval and quantization. Now I am interested in open vocabulary tasks.
 
 # 🔥 News
 - *2023.10*: &nbsp;🎉🎉 One paper is accepted by NIPS 2023! 
 - *2023.07*: &nbsp;🎉🎉 Two papers are accepted by ICCV 2023!  
-
+- *2021*: &nbsp;🎉🎉 One paper is accepted by AAAI 2022!
+- *2021*: &nbsp;🎉🎉 One paper is accepted by TIP 2022!
+- *2020*: &nbsp;🎉🎉 Two papers are accepted by AAAI 2021!
+- *2020*: &nbsp;🎉🎉 One paper is accepted by TIP 2021!
+- *2019*: &nbsp;🎉🎉 One paper is accepted by AAAI 2020!
 # 📝 Publications 
+[//]: # (----------- NIPS 2023 -------------------------)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2023</div><img src='../images/ICCV23_Tracking.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Category-Extensible Out-of-Distribution Detection via Hierarchical Context Descriptions](https://openreview.net/pdf?id=SA2KrosYjY )
+
+[//]: # (<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong>)
+
+Kai Liu, Zhihang Fu, Chao Chen, **Sheng Jin**, Ze Chen, Mingyuan Tao, Rongxin Jiang, Jieping Ye
+
+<i>NIPS, 2023</i>
+
+<a href="https://openreview.net/pdf?id=SA2KrosYjY">paper</a> 
+
+</div>
+</div>
+
+[//]: # (----------- Preprint -------------------------)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='../images/trend.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Vision-Language Models for Vision Tasks: A Survey](https://arxiv.org/pdf/2304.00685) 
+
+[//]: # (<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong>)
+
+Jingyi Zhang, Jiaxing Huang, **Sheng Jin**, Shijian Lu
+
+<i>Arxiv</i>
+
+<a href="https://arxiv.org/pdf/2304.00685">paper</a> 
+
+</div>
+</div>
+
 [//]: # (----------- ICCV 2023 -------------------------)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='../images/ICCV23_Tracking.jpg' alt="sym" width="100%"></div></div>
@@ -39,7 +79,7 @@ Kai Liu, **Sheng Jin**, Zhihang Fu, Ze Chen, Rongxin Jiang, Jieping Ye
 
 <i>ICCV, 2023</i>
 
-<a href="[https://arxiv.org/pdf/2309.00844.pdf](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Uncertainty-aware_Unsupervised_Multi-Object_Tracking_ICCV_2023_paper.pdf)">paper</a> 
+<a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Uncertainty-aware_Unsupervised_Multi-Object_Tracking_ICCV_2023_paper.pdf">paper</a> 
 
 </div>
 </div>
@@ -61,6 +101,79 @@ Xueying Jiang, Jiaxing Huang, **Sheng Jin**, Shijian Lu
 
 </div>
 </div>
+
+[//]: # (----------- AAAI 2022 -------------------------)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='../images/AAAI2022_Action.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Temporal Action Proposal Generation with Background Constraint](https://ojs.aaai.org/index.php/AAAI/article/view/20212)
+
+[//]: # (<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong>)
+
+Haosen Yang, Wenhao Wu, Lining Wang, **Sheng Jin**, Boyang Xia, Hongxun Yao, Hujie Huang
+
+<i>AAAI, 2022</i>
+
+<a href="https://arxiv.org/pdf/2309.00844.pdf">paper</a> 
+
+</div>
+</div>
+
+[//]: # (----------- AAAI 2021 -------------------------)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2021</div><img src='../images/AAAI2021_Hashing.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Asynchronous teacher guided bit-wise hard mining for online hashing](https://ojs.aaai.org/index.php/AAAI/article/view/16265)
+
+[//]: # (<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong>)
+
+**Sheng Jin**, Qin Zhou, Hongxun Yao, Yao Liu, Xian-Sheng Hua
+
+<i>AAAI, 2021</i>
+
+<a href="https://ojs.aaai.org/index.php/AAAI/article/view/16265">paper</a> 
+
+</div>
+</div>
+
+[//]: # (----------- AAAI 2021 -------------------------)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2021</div><img src='../images/AAAI2021_DA.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Homm: Higher-order moment matching for unsupervised domain adaptation](https://ojs.aaai.org/index.php/AAAI/article/download/5745/5601)
+
+[//]: # (<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong>)
+
+Chao Chen, Zhihang Fu, Zhihong Chen, **Sheng Jin**, Zhaowei Cheng, Xinyu Jin, Xian-Sheng Hua
+
+<i>AAAI, 2021</i>
+
+<a href="https://ojs.aaai.org/index.php/AAAI/article/download/5745/5601">paper</a> 
+
+</div>
+</div>
+
+[//]: # (----------- AAAI 2020 -------------------------)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2020</div><img src='../images/AAAI2020_Hashing.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Homm: Higher-order moment matching for unsupervised domain adaptation](https://ojs.aaai.org/index.php/AAAI/article/download/6773/6627)
+
+[//]: # (<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong>)
+
+**Sheng Jin**, Shangchen Zhou, Yao Liu, Chao Chen, Xiaoshuai Sun, Hongxun Yao, Xian-Sheng Hua
+
+<i>AAAI, 2020</i>
+
+<a href="https://ojs.aaai.org/index.php/AAAI/article/download/6773/6627">paper</a> 
+
+</div>
+</div>
+
 
 [//]: # (----------- TIP 2021 -------------------------)
 
