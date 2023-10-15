@@ -68,8 +68,9 @@ Xueying Jiang, Jiaxing Huang, **Sheng Jin**, Shijian Lu
 - *2021. * National Scholarships
 - 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2012.09 - 2016.07*,  
+- *2022.08 - Present:* Doctor of Philosophy, School of Computer Science and Engineering, Harbin Institute of Technology
+- *2018.09 - 2022.07:* Bachelor in Intelligence Science and Technology, School of Mathematic, Harbin Institute of Technology
+ 
 
 # 🧑‍🔬 Service
 - * Reviewer of IEEE TPAMI, TIP
