@@ -216,14 +216,14 @@ Chao Chen, Zhihang Fu, Zhihong Chen, **Sheng Jin**, Zhaowei Cheng, Xinyu Jin, Xi
 # 🎖 Honors and Awards
 - *2022.* Excellent Doctors’ Nomination. 
 - *2021.* National Scholarships
-- 
+
 # 📖 Educations
 - *2022.08 - Present:* Doctor of Philosophy, School of Computer Science and Engineering, Harbin Institute of Technology
 - *2018.09 - 2022.07:* Bachelor in Intelligence Science and Technology, School of Mathematic, Harbin Institute of Technology
  
 
 # 🧑‍🔬 Service
-- * Reviewer of IEEE TPAMI, TIP
+- * Reviewer of IEEE TPAMI, TCVST
 
 # 💻 Internships
 - *2018.09 - 2021.11*, Citybrain Lab, Alibaba Group, China.
