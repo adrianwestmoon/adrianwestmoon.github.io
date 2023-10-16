@@ -219,7 +219,7 @@ Chao Chen, Zhihang Fu, Zhihong Chen, **Sheng Jin**, Zhaowei Cheng, Xinyu Jin, Xi
 
 # 📖 Educations
 - *2016.09 - 2021.09:* Doctor of Philosophy, School of Computer Science and Engineering, Harbin Institute of Technology
-- *2012.09 - 2016.07:* Bachelor in Intelligence Science and Technology, School of Mathematic, Harbin Institute of Technology
+- *2012.09 - 2016.07:* Bachelor in Intelligence Science and Technology, School of Mathematics, Harbin Institute of Technology
  
 
 # 🧑‍🔬 Service
@@ -233,9 +233,8 @@ Chao Chen, Zhihang Fu, Zhihong Chen, **Sheng Jin**, Zhaowei Cheng, Xinyu Jin, Xi
 Thanks for the template of <a href="https://github.com/RayeRen/acad-homepage.github.io">Yi Ren</a>
 
 
-[//]: # (<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=UA1prgTfM8f4KdsTtZDKPAqAagf4Sr6L0d9xRVyOdrE&cl=ffffff&w=300"></script>)
+[//]: # (<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=tWtQE7TmvuyYwZoMvhZ03hz9JwVV2jqLDfST5K4doxk&cl=ffffff&w=a"></script>)
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=0BIYeBsibdR2LYwdkZWai6r2NccfTZ96HDqvr9WYt9s&co=9fc7e3&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=tWtQE7TmvuyYwZoMvhZ03hz9JwVV2jqLDfST5K4doxk&cl=ffffff&w=a"></script>
 
-
-[//]: # (<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=0BIYeBsibdR2LYwdkZWai6r2NccfTZ96HDqvr9WYt9s&cl=ffffff&w=a"></script>)
+[//]: # (<script type="text/javascript" id="clustrmaps" "//clustrmaps.com/map_v2.js?d=tWtQE7TmvuyYwZoMvhZ03hz9JwVV2jqLDfST5K4doxk&cl=ffffff&w=a"></script>)
