@@ -236,5 +236,3 @@ Thanks for the template of <a href="https://github.com/RayeRen/acad-homepage.git
 [//]: # (<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=tWtQE7TmvuyYwZoMvhZ03hz9JwVV2jqLDfST5K4doxk&cl=ffffff&w=a"></script>)
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=tWtQE7TmvuyYwZoMvhZ03hz9JwVV2jqLDfST5K4doxk&cl=ffffff&w=a"></script>
-
-[//]: # (<script type="text/javascript" id="clustrmaps" "//clustrmaps.com/map_v2.js?d=tWtQE7TmvuyYwZoMvhZ03hz9JwVV2jqLDfST5K4doxk&cl=ffffff&w=a"></script>)
