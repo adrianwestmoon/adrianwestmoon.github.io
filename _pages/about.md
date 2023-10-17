@@ -223,7 +223,7 @@ Chao Chen, Zhihang Fu, Zhihong Chen, **Sheng Jin**, Zhaowei Cheng, Xinyu Jin, Xi
  
 
 # 🧑‍🔬 Service
-- Reviewer of IEEE TPAMI, TCVST
+- Reviewer of IEEE TPAMI, TIFS, TCVST
 
 # 💻 Internships
 - *2018.09 - 2021.11*, Citybrain Lab, Alibaba Group, China.
