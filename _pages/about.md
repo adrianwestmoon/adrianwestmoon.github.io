@@ -25,7 +25,8 @@ During my Phd period, my research interests include computer vision and deep lea
 - *2023.10*: &nbsp;🎉🎉 One paper is submitted to CVPR 2024! 
 - *2023.10*: &nbsp;🎉🎉 Three papers are submitted to ICLR 2024! 
 - *2023.10*: &nbsp;🎉🎉 One paper is accepted by NIPS 2023! 
-- *2023.07*: &nbsp;🎉🎉 Two papers are accepted by ICCV 2023!  
+- *2023.07*: &nbsp;🎉🎉 Two papers are accepted by ICCV 2023!
+- *2023.04*: &nbsp;🎉🎉 One paper is submitted to TPAMI 2023!  
 - *2021*: &nbsp;🎉🎉 One paper is accepted by AAAI 2022!
 - *2021*: &nbsp;🎉🎉 One paper is accepted by TIP 2022!
 - *2020*: &nbsp;🎉🎉 Two papers are accepted by AAAI 2021!
