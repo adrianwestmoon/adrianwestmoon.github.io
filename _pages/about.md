@@ -22,6 +22,7 @@ I completed my Ph.D. degree (2016-2021) at the [VILab](https://vilab.hit.edu.cn/
 During my Phd period, my research interests include computer vision and deep learning with a focus on image retrieval and quantization. Now I am interested in open vocabulary tasks. I am open to overseas job opportunities or a postdoctoral position!
 
 # 🔥 News
+- *2024.01*: &nbsp;🎉🎉 One paper is accepted by ICLR 2024! 
 - *2023.10*: &nbsp;🎉🎉 One paper is submitted to CVPR 2024! 
 - *2023.10*: &nbsp;🎉🎉 Three papers are submitted to ICLR 2024! 
 - *2023.10*: &nbsp;🎉🎉 One paper is accepted by NIPS 2023! 
@@ -226,7 +227,7 @@ Chao Chen, Zhihang Fu, Zhihong Chen, **Sheng Jin**, Zhaowei Cheng, Xinyu Jin, Xi
  
 
 # 🧑‍🔬 Service
-- Reviewer of IEEE TPAMI, TIFS, TCVST
+- Reviewer of CVPR, IEEE TPAMI, TIP, TIFS, TCVST
 
 # 💻 Internships
 - *2018.09 - 2021.11*, Citybrain Lab, Alibaba Group, China.
