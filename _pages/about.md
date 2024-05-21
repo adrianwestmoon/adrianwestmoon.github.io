@@ -22,7 +22,8 @@ I completed my Ph.D. degree (2016-2021) at the [VILab](https://vilab.hit.edu.cn/
 During my Phd period, my research interests include computer vision and deep learning with a focus on image retrieval and quantization. Now I am interested in open vocabulary tasks. I am open to overseas job opportunities or a postdoctoral position!
 
 # 🔥 News
-- *2024.03*: &nbsp;🎉🎉 One paper is submitted to ECCV 2024! 
+- *2024.05*: &nbsp;🎉🎉 Four paper is submitted to NIPS 2024! 
+- *2024.03*: &nbsp;🎉🎉 Three paper is submitted to ECCV 2024! 
 - *2024.03*: &nbsp;🎉🎉 One paper is accepted to TPAMI 2024! 
 - *2024.02*: &nbsp;🎉🎉 One paper is accepted to CVPR 2024! 
 - *2024.01*: &nbsp;🎉🎉 One paper is accepted by ICLR 2024! 
